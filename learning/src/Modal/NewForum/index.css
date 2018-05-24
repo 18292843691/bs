@@ -1,0 +1,13 @@
+.newForum {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    margin: 20px;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+}
+
+.newForum-container {
+    width: 600px;
+}

@@ -1,0 +1,14 @@
+.forumContainer {
+    display: flex;
+    padding-top: 20px;
+}
+
+.left {
+    width: 800px;
+    height: 800px;
+}
+
+.right {
+    margin-left: 20px;
+    height: 800px;
+}

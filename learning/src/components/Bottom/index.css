@@ -1,0 +1,9 @@
+.bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 100%;
+    background-color: rgba(43, 220, 226, 0.06);
+    border-top: 1px dashed rgba(43, 220, 226, 0.16);
+}
